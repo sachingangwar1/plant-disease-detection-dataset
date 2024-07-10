@@ -1,3 +1,4 @@
+To see this project, first download it and then see the entire project.
 plant-disease-detection-dataset
 Plant Diseases Detection?
 
