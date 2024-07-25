@@ -11,7 +11,9 @@ Economic Impact: Minimizing crop losses due to diseases directly affects the eco
 Food Security: Protecting crops from diseases is essential to maintain a stable food supply for the growing global population.
 
 Environmental Protection: Effective disease management reduces the need for chemical treatments, thus protecting the environment.
-SECOND PROJECT: handwritten digit recognition dataset
+
+
+ SECOND PROJECT: handwritten digit recognition dataset
 MNIST Digits - Classification Using SVM**
 
 Objective We will develop a model using Support Vector Machine which should correctly classify the handwritten digits from 0-9 based on the pixel values given as features. Thus, this is a 10-class classification problem.
